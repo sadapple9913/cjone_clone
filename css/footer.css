@@ -16,7 +16,7 @@
 
  .footer_inner>dl>dd.family_site { position: relative; width: 189px; background: #222; border: 1px solid #6d6d6d; text-align: left; } 
 
- .footer_inner>dl>dd.family_site>a { display: block; padding: 0 14px; background: url(../images/ico_family_arrow.png)no-repeat 162px 0; color: #777; font-size: 12px; } 
+ .footer_inner>dl>dd.family_site>a { display: block; padding: 0 14px; background: url(../images/ico_family_arrow.png)no-repeat 162px 0; color: #B0B0B0; font-size: 12px; } 
 
  .footer_inner>dl>dd.family_site.on>a { background-position-y: -27px; } 
 
@@ -25,7 +25,7 @@
 
  .footer_inner>dl>dd.family_site.on>ul { display: block; } 
 
- .footer_inner>dl>dd.family_site>ul a { color: #777; } 
+ .footer_inner>dl>dd.family_site>ul a { color: #B0B0B0; } 
 
  .footer_inner>dl>dd.family_site>ul>li>ul { text-indent: 10px; } 
 
@@ -37,3 +37,9 @@
  .top.on { display: block; } 
 
  .top.ab { position: absolute; bottom: 320px; right: 20px; } 
+
+
+
+
+
+ 

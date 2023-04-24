@@ -63,7 +63,7 @@ a { color: #ccc; text-decoration: none; }
 
  .content3_inner { width: 1060px; margin: 0 auto; } 
 
- #footer { position: relative; width: 100%; height: 240px; background: #222; color: #777; text-align: center; letter-spacing: 1px; } 
+ #footer { position: relative; width: 100%; height: 240px; background: #222; color: #B0B0B0; text-align: center; letter-spacing: 1px; } 
 
  .footer_inner { width: 96%; min-width: 986px; margin: 0 auto; padding-top: 40px; } 
 
@@ -96,7 +96,7 @@ a { color: #ccc; text-decoration: none; }
 
  .content3_inner { width: 100%; margin: 0 auto; } 
 
- #footer { position: relative; width: 100%;background: #222; color: #777; text-align: center; letter-spacing: 1px; } 
+ #footer { position: relative; width: 100%;background: #222; color: #B0B0B0; text-align: center; letter-spacing: 1px; } 
 
  .footer_inner { width: 100%; min-width: 100%; margin: 0 auto; padding-top: 40px; } 
 }
