@@ -1019,4 +1019,7 @@
 
  li.event::before { content: "event"; position: absolute; top: 8px; right: 8px; width: 38px; height: 16px; border-radius: 3px; background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-height: 16px; font-family: arial; letter-spacing: 0; } 
 
-}git 
+}
+
+
+/* 수정 */
